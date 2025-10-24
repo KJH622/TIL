@@ -11,4 +11,8 @@
 ### algorithm
   - [코딩테스트에 대해](https://github.com/KJH622/TIL/blob/main/algorithm/outline.md)
   - [알고리즘 성능 평가](https://github.com/KJH622/TIL/blob/main/algorithm/complexity.md)
-  - [코딩 테스트를 위한 파이썬 문법]()
+  - 코딩 테스트를 위한 파이썬 문법
+
+    - [자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/data_type.md)
+
+    - [리스트](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/list.md)
