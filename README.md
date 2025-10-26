@@ -15,4 +15,8 @@
 
     - [자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/data_type.md)
 
-    - [리스트](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/list.md)
+    - [리스트 자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/list.md)
+
+    - [문자열 자료형 & 튜플 자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/string_tuple.md)
+
+    - [사전 자료형 & 집합 자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/dictionary_set.md)
