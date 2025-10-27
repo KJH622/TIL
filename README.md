@@ -22,3 +22,5 @@
     - [사전 자료형 & 집합 자료형](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/dictionary_set.md)
 
     - [기본 입출력](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/input.md)
+
+    - [조건문](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/conditional_statement.md)
