@@ -24,3 +24,5 @@
     - [기본 입출력](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/input.md)
 
     - [조건문](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/conditional_statement.md)
+
+    - [반복문](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/loop_statement.md)
