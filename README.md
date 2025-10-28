@@ -26,3 +26,5 @@
     - [조건문](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/conditional_statement.md)
 
     - [반복문](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/loop_statement.md)
+
+    - [함수 & 람다 표현식](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/function_lambda_expression.md)
