@@ -21,7 +21,7 @@
 
 - DFS/BFS를 활용한 탐색
 
-![알고리즘 코딩 테스트 유형 분석](img/outline_01.png)
+![알고리즘 코딩 테스트 유형 분석](../algorithm/img/outline/outline_01.png)
 
 ## 주요 기업 코딩 테스트 유형 분석
 
