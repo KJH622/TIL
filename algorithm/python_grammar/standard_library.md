@@ -66,7 +66,7 @@ print(result) # [('이순신', 75), ('아무개', 50), ('홍길동', 35)]
 
 <br>
 
-![순열의 수 & 조합의 수](../img/standard_library_01.png)
+![순열의 수 & 조합의 수](../img/python_grammar/standard_library_01.png)
 
 ### 순열의 예시
 
