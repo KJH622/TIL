@@ -30,3 +30,5 @@
     - [함수 & 람다 표현식](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/function_lambda_expression.md)
 
     - [실전에서 유용한 표준 라이브러리](https://github.com/KJH622/TIL/blob/main/algorithm/python_grammar/standard_library.md)
+
+- [그리디 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/greedy_algorithm.md)
