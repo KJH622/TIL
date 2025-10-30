@@ -22,7 +22,7 @@
 
     - 계수는 무시한다.
 
-![빅오 표기법](img/outline_02.png)
+![빅오 표기법](../algorithm/img/outline/outline_02.png)
 
 ### 시간 복잡도 계산해보기
 
