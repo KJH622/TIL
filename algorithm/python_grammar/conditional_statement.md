@@ -97,13 +97,13 @@ else:
 
     - 대입 연산자(=)와 같음 연산자(==)의 차이점에 유의해야 한다.
 
-![비교 연산자](../img/conditional_statement_01.png)
+![비교 연산자](../img/python_grammar/conditional_statement_01.png)
 
 ## 논리 연산자
 
 - 논리 연산자는 **논리 값 (True/False) 사이의 연산을 수행할 때 사용**한다.
 
-![논리 연산자](../img/conditional_statement_02.png)
+![논리 연산자](../img/python_grammar/conditional_statement_02.png)
 
 ## 파이썬의 기타 연산자
 
@@ -111,7 +111,7 @@ else:
 
     - 리스트, 튜플, 문자열, 딕셔너리 모두에서 사용이 가능하다.
 
-![파이썬의 기타 연산자](../img/conditional_statement_03.png)
+![파이썬의 기타 연산자](../img/python_grammar/conditional_statement_03.png)
 
 ## 파이썬의 pass 키워드
 
