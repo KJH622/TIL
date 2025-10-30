@@ -22,7 +22,7 @@ if '사과' in data:
     # '사과'를 키로 가지는 데이터가 존재합니다.
 ```
 
-![사전 자료형](../img/dictionary_01.png)
+![사전 자료형](../img/python_grammar/dictionary_01.png)
 
 ## 사전 자료형 관련 메서드
 
