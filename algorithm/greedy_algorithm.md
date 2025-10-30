@@ -14,11 +14,11 @@
 
     - Q. 최적의 해는 무엇인가?
 
-        ![그리디 알고리즘](../algorithm/img/greedy_01.png)
+        ![그리디 알고리즘](../algorithm/img/greedy/greedy_01.png)
 
     - Q. 단순히 매 상황에서 가장 큰 값만 고른다면 어떻게 될까? (그리디 알고리즘)
 
-        ![그리디 알고리즘](../algorithm/img/greedy_02.png)
+        ![그리디 알고리즘](../algorithm/img/greedy/greedy_02.png)
 
 - 일반적인 상황에서 그리디 알고리즘은 최적의 해를 보장할 수 없을 때가 많다.
 
@@ -42,23 +42,23 @@
 
     - **[Step 0]** 초기 단계 - 남은 돈: 1,260원
 
-        ![거스름 돈](../algorithm/img/greedy_03.png)
+        ![거스름 돈](../algorithm/img/greedy/greedy_03.png)
     
     - **[Step 1]** 남은 돈: 260원
 
-        ![거스름 돈](../algorithm/img/greedy_04.png)
+        ![거스름 돈](../algorithm/img/greedy/greedy_04.png)
     
     - **[Step 2]** 남은 돈: 60원
 
-        ![거스름 돈](../algorithm/img/greedy_05.png)
+        ![거스름 돈](../algorithm/img/greedy/greedy_05.png)
     
     - **[Step 3]** 남은 돈: 10원
 
-        ![거스름 돈](../algorithm/img/greedy_06.png)
+        ![거스름 돈](../algorithm/img/greedy/greedy_06.png)
     
     - **[Step 4]** 남은 돈: 0원
 
-        ![거스름 돈](../algorithm/img/greedy_07.png)
+        ![거스름 돈](../algorithm/img/greedy/greedy_07.png)
 
 ### 정당성 분석
 
@@ -110,7 +110,7 @@ print(count)
 
 ### 문제 조건
 
-![1이 될 때까지](../algorithm/img/greedy_08.png)
+![1이 될 때까지](../algorithm/img/greedy/greedy_08.png)
 
 ### 문제 해결 아이디어
 
@@ -122,7 +122,7 @@ print(count)
 
 - 예를 들어 N = 25, K = 3일 때는 다음과 같다.
 
-    ![1이 될 때까지](../algorithm/img/greedy_09.png)
+    ![1이 될 때까지](../algorithm/img/greedy/greedy_09.png)
 
 ### 정당성 분석
 
@@ -169,7 +169,7 @@ print(result)
 
 ### 문제 조건
 
-![곱하기 혹은 더하기](../algorithm/img/greedy_10.png)
+![곱하기 혹은 더하기](../algorithm/img/greedy/greedy_10.png)
 
 ### 문제 해결 아이디어
 
@@ -220,17 +220,17 @@ print(result)
 
 ### 문제 조건
 
-![모험가 길드](../algorithm/img/greedy_11.png)
+![모험가 길드](../algorithm/img/greedy/greedy_11.png)
 
 ### 문제 해결 아이디어
 
 - 오름차순 정렬 이후에 공포도가 가장 낮은 모험가부터 하나씩 확인한다.
 
-    ![모험가 길드](../algorithm/img/greedy_12.png)
+    ![모험가 길드](../algorithm/img/greedy/greedy_12.png)
 
 - 앞에서부터 공포도를 하나씩 확인하며, **'현재 그룹에 포함된 모험가의 수'가 '현재 확인하고 있는 공포도'보다 크거나 같다면 이를 그룹으로 설정**하면 된다.
 
-    ![모험가 길드](../algorithm/img/greedy_13.png)
+    ![모험가 길드](../algorithm/img/greedy/greedy_13.png)
 
 - 이러한 방법을 이용하면 공포도가 오름차순으로 정렬되어 있다는 점에서, 항상 최소한의 모험가의 수만 포함하여 그룹을 결성하게 된다.
 
