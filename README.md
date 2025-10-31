@@ -34,3 +34,7 @@
 - [그리디 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/greedy_algorithm.md)
 
 - [구현 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/implementation_algorithm.md)
+
+### 수학적 표현
+
+- [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical%20expression/factorial.py)
