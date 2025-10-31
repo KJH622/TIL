@@ -38,3 +38,5 @@
 ### 수학적 표현
 
 - [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical%20expression/factorial.py)
+
+- [절댓값 구현](https://github.com/KJH622/TIL/blob/main/mathematical%20expression/abs.md)
