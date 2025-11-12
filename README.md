@@ -37,6 +37,36 @@
 
 ### 수학적 표현
 
-- [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical%20expression/factorial.py)
+- [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical_expression/factorial.py)
 
 - [절댓값 구현](https://github.com/KJH622/TIL/blob/main/mathematical%20expression/abs.md)
+
+- [이진수 구현](https://github.com/KJH622/TIL/blob/main/mathematical_expression/binary.md)
+
+- [행렬 구현](https://github.com/KJH622/TIL/blob/main/mathematical_expression/matrix.md)
+
+- [유클리드 기하학 & 택시 기하학](https://github.com/KJH622/TIL/blob/main/mathematical_expression/taxicab.md)
+
+- [기타 함수들](https://github.com/KJH622/TIL/blob/main/mathematical_expression/other_function.md)
+
+### 알아두면 좋은 것들
+
+- [아스키 코드](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/ascii_code.md)
+
+- [중앙 이동 알고리즘 구현](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/central_shift_algorithm.md)
+
+- [리스트 컴프리헨션](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/comprehension.md)
+
+- [오늘 날짜 확인](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/datetime.py)
+
+- [입력 함수와 입력 빠르게 하기](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/input_function.md)
+
+- [join 함수](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/join.md)
+
+- [그대로 출력하기](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/print_as_is.md)
+
+- [중복 제거하는 방법](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/set.md)
+
+- [슬라이싱](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/slicing.md)
+
+- [try-except 구문](https://github.com/KJH622/TIL/blob/main/Basic_knowledge/try_except.md)
