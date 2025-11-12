@@ -1,21 +1,21 @@
-# 재귀함수를 이용하여 팩토리얼 표현
+# 반복적으로 구현한 n!
+def factorial_iterative(n):
+    result = 1
+    # 1부터 n까지의 수를 차례대로 곱하기
+    for i in range(1, n+1):
+        result *= i
+    return result
 
-n = int(input())
-
-def factorial(num):
-    if num <= 1:
+# 재귀적으로 구현한 n!
+def factorial_reCursive(n):
+    if n <= 1: # n이 1 이하인 경우 1을 반환
         return 1
-    else:
-        return num * factorial(num-1)
+    # n! = n * (n-1)! 를 그대로 코드로 작성하기
+    return n * factorial_reCursive(n - 1)
 
-print(factorial(n))
+# 각각의 방식으로 구현한 n! 출력 (n = 5)
+print('반복적으로 구현:', factorial_iterative(5))
+print('재귀적으로 구현:', factorial_reCursive(5))
 
-# for문을 이용하여 팩토리얼 표현
-
-n = int(input())
-result = 1
-
-for i in range(1, n+1):
-    result *= i
-
-print(result)
+# 반복적으로 구현: 120
+# 재귀적으로 구현: 120
