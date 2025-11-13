@@ -35,6 +35,8 @@
 
 - [구현 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/implementation_algorithm.md)
 
+- [DFS 알고리즘 & BFS 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/DFS_BFS_algorithm.md)
+
 ### 수학적 표현
 
 - [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical_expression/factorial.py)
