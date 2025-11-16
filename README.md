@@ -37,6 +37,10 @@
 
 - [DFS 알고리즘 & BFS 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/DFS_BFS_algorithm.md)
 
+- [정렬 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/sorting_algorithm.md)
+
+- [코딩 테스트에서 자주 출제되는 기타 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/other_algorithms.md)
+
 ### 수학적 표현
 
 - [팩토리얼 구현](https://github.com/KJH622/TIL/blob/main/mathematical_expression/factorial.py)
