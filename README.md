@@ -41,6 +41,12 @@
 
 - [이진 탐색 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/binary_search_algorithm.md)
 
+- [다이나믹 프로그래밍](https://github.com/KJH622/TIL/blob/main/algorithm/dynamic_programming.md)
+
+- [최단 경로 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/shortest_path_algorithm.md)
+
+- [기타 그래프 이론](https://github.com/KJH622/TIL/blob/main/algorithm/other_graph_theory.md)
+
 - [코딩 테스트에서 자주 출제되는 기타 알고리즘](https://github.com/KJH622/TIL/blob/main/algorithm/other_algorithms.md)
 
 ### 수학적 표현
