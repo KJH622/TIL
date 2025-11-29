@@ -79,6 +79,8 @@ Emmet은 HTML과 CSS의 자동완성 기능을 제공하여, 작성 시간을 �
 
     - 기본이 div이기 때문에 생략 가능
 
+        - `.title 입력 후 Tab키`
+
     ```
     <div class="title"></div>
     <span class="title"></span>
@@ -90,7 +92,9 @@ Emmet은 HTML과 CSS의 자동완성 기능을 제공하여, 작성 시간을 �
 
 - `span#item 입력 후 Tab키` : id를 갖는 요소를 생성할 수 있다.
 
-    - 기본이 **div**이기 때문에 생략 가능
+    - 기본이 div이기 때문에 생략 가능
+
+        - `#item 입력 후 Tab키`
 
     ```
     <div id="item"></div>
