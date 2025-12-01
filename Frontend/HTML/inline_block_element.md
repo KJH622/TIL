@@ -40,11 +40,30 @@ ex) `<a>` , `<em>` , `<img>` , `<span>`
     
 - `width`, `height` 속성이 적용되지 않는다.
 
+<hr>
+
+```
+<head>
+    <style>
+        div {
+            background-color: red;
+        }
+        span {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div>Hello World!</div>
+    <span>Hello world!</span>
+</body>
+```
+
 ![인라인 블록 요소](/Frontend/HTML/img/inline_block_elements.png)
 
-- 빨간색 : `div` 태그 -> 세로 정렬
+- 빨간색 : `div` 태그 -> 세로 정렬 **(Block-level Element)**
 
-- 노란색 : `span` 태그 -> 가로 정렬
+- 노란색 : `span` 태그 -> 가로 정렬 **(Inline-level Element)**
 
 ## 3. CSS Display 속성
 
