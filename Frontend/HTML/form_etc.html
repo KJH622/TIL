@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ETC</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>자기소개서</legend>
+            <textarea name="" id="" cols="30" rows="10"></textarea>
+        </fieldset>
+        <fieldset>
+            <legend>주문 상품을 선택해주세요!</legend>
+            <ul>
+                <li>
+                    <select name="goods" id="goods" multiple>
+                        <!-- shift 선택 후 선택하면 다중 선택 가능-->
+                        <option value="apple_10kg">사과 10kg</option>
+                        <option value="apple_20kg" selected>사과 20kg</option>
+                        <option value="apple_30kg">사과 30kg</option>
+                        <option value="apple_40kg">사과 40kg</option>
+                        <option value="apple_50kg">사과 50kg</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="ice-cream-choice">맛을 선택하세요</label>
+                    <input list="ice-cream-flavors" id="ice-cream-choice" name="ice-cream-choice">
+                    <datalist id="ice-cream-flavors">
+                        <option value="Chocolate"></option>
+                        <option value="Coconut"></option>
+                        <option value="Mint"></option>
+                        <option value="Strawberry"></option>
+                        <option value="Vanilla"></option>
+                    </datalist>
+                </li>
+            </ul>
+        </fieldset>
+        <button type="submit">제출하기</button>
+        <!-- action에 지정한 URI로 데이터를 제출함 -->
+        <button type="reset">리셋하기</button>
+        <button type="button" onclick="alert('Hello World~!')">버튼</button>
+    </form>
+</body>
+</html>
