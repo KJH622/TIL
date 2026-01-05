@@ -93,3 +93,8 @@
 * [14. 반응형 웹 사이트](https://github.com/KJH622/TIL/blob/main/Frontend/CSS/responsive_web.md)
 * [15. Flexbox란 & Flex Container 속성](https://github.com/KJH622/TIL/blob/main/Frontend/CSS/flexbox_flex_container.md)
 * [16. Flex Item 속성](https://github.com/KJH622/TIL/blob/main/Frontend/CSS/flex_item.md)
+
+### JavaScript
+
+* [01. 순서도](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/FlowChart.md)
+* [02. 기본 문법 배우기 - 1](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/basic_grammer_1.md)
