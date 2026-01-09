@@ -98,3 +98,5 @@
 
 * [01. 순서도](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/FlowChart.md)
 * [02. 기본 문법 배우기 - 1](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/basic_grammer_1.md)
+* [03. 기본 문법 배우기 - 2](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/basic_grammer_2.md)
+* [04. 기본 문법 배우기 - 3](https://github.com/KJH622/TIL/blob/main/Frontend/JavaScript/basic_grammer_3.md)
